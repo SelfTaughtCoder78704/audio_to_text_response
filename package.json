@@ -1,0 +1,19 @@
+{
+  "name": "langchain_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "audio.js",
+  "type": "module",
+  "scripts": {
+    "start": "node audio.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/core": "^0.1.41",
+    "@langchain/openai": "^0.0.16",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.1.25"
+  }
+}
